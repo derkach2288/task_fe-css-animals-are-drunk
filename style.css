@@ -2,3 +2,41 @@ img {
   height: 400px;
 
 }
+
+.headline {
+  background-color: rgb(44, 44, 174);
+  color: aliceblue;
+  text-align: center;
+}
+
+.subheader {
+  color: brown;
+  text-transform: uppercase;
+}
+
+#panda {
+  background-color: aquamarine;
+}
+
+.intro {
+  color: rgb(53, 53, 137);
+}
+
+.main-text {
+  font-weight: 500;
+  font-style: oblique;
+}
+
+.text-more {
+  color: rgb(116, 59, 59);
+}
+
+.idea {
+  text-decoration: underline;
+}
+
+.footer-element {
+  color: blue;
+  text-decoration: underline;
+  text-align: right;
+}
